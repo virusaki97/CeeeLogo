@@ -1,4 +1,3 @@
-
 document.getElementById( 'slidexs' ).addEventListener( 'click', function() {
 
 			this.style.opacity == '0' || this.style.opacity == ''
